@@ -1,4 +1,4 @@
-# scRNA-Alkali-Burn
+# scRNA-Alkali Burn
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Author: Rajnish Kumar & Rajiv R. Mohan
