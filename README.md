@@ -1,21 +1,21 @@
 # scRNA-Alkali-Burn
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Author: Rajnish Kumar, Nishant R. Sinha & Rajiv R. Mohan
+Author: Rajnish Kumar & Rajiv R. Mohan
 Copyright(C)2025-2026. Rajnish Kumar, Nishant R. Sinha & Rajiv R. Mohan   
 University of Missouri, Columbia          
 All Rights Reserved.	             
 
-%  Created by
+Created by
 Rajnish Kumar & Rajiv R. Mohan
 Harry S. Truman Memorial Veterans' Hospital, Columbia, Missouri, United States.
 Department of Ophthalmology, Veterinary Medicine & Surgery, College of Veterinary Medicine,
 University of Missouri, Columbia, Missouri, United States.
 Department of Ophthalmology, School of Medicine, University of Missouri, Columbia, Missouri, United States.
 
-%  For more information, contact:
+For more information, contact:
 
-%    Dr. Rajnish Kumar
+     Dr. Rajnish Kumar
      University of Missouri-Columbia
      Columbia, MO 65211
      rajnish.kumar@missouri.edu
