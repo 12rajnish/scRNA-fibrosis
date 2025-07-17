@@ -1,4 +1,4 @@
-# scRNA-Alkali Burn
+# scRNA-fibrosis
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Author: Rajnish Kumar & Rajiv R. Mohan
